@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pmdm22-examen-junio</string>
+    <string name="delete">Eliminar\n</string>
+    <string name="info">Información</string>
+    <string name="ok">Ok</string>
+    <string name="my_albums">Mis discos</string>
+</resources>
